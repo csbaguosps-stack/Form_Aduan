@@ -1,0 +1,38 @@
+# Operating System Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# IDE / Code Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
+
+# Logs & Cache
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+apache_logs/
+error_log
+
+# Environment / Secret Credentials (if added in the future)
+.env
+.env.local
+.env.*.local
+*.private.php
+
+# Large or Sensitive Uploads (Optional: sesuaikan jika tidak ingin mengunggah berkas lampiran pribadi)
+# /file_d/*.pdf
+# !/file_d/.htaccess
